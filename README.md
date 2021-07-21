@@ -1,7 +1,4 @@
-
 # shopping-cloud
-基于Vue开发的手机端电商云
-
 
 ## Project setup
 ```
@@ -25,4 +22,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
